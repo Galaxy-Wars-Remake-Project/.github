@@ -1,34 +1,16 @@
-# Galaxy Wars 2
+# Galaxy Wars: The Remake
 
 ![Galaxy Wars Logo](gw-logo.jpeg)
 
 ## About
-Galaxy Wars 2 is a Minecraft server project dedicated to reviving and modernizing the beloved Galaxy Wars minigame, originally created by Hypixel in 2015. This project aims to continue the legacy of this classic space combat minigame, bringing it back to life with modern Minecraft features and ongoing updates.
-
-## Features
-- Custom space combat minigame
-- Multiple game modes and maps
-- Team-based gameplay
-- Custom weapons and abilities
-- Regular updates and improvements
+Galaxy Wars: The Remake is a Minecraft server project dedicated to reviving and modernizing the Galaxy Wars minigame, originally created by Hypixel in 2015. This project aims to continue the legacy of this minigame, bringing it back to life with modern Minecraft features and optimizations as well as ongoing updates.
 
 ## How to Join
 ### Server Status
-Currently, the Galaxy Wars 2 server is not publicly hosted. To run your own server:
-
-1. Clone the server repository:
-   ```bash
-   git clone https://github.com/Galaxy-Wars-Remake-Project/gw2-minestom-v0.git
-   ```
-2. Follow the setup instructions in the server repository
-3. Launch Minecraft (Version: 1.20 or higher)
-4. Connect to your local server
-
-For detailed server setup instructions, please visit our [server repository](https://github.com/Galaxy-Wars-Remake-Project/gw2-minestom-v0).
+Currently, the Galaxy Wars: The Remake server is in development and will soon be availible for closed aplha testing. Check the [discord](https://discord.gg/FzQNJKZMf3) to secure a spot in the testing team and receive the most up to date news.
 
 ### Website
-Visit our website at: [Website URL - Coming Soon]
-*(Hosted on Vercel - Link will be added when deployment is complete)*
+Visit our website at: [https://gw2-website-v2.vercel.app/]
 
 ## Game Modes
 [Add descriptions of your specific game modes here]
@@ -40,14 +22,6 @@ Visit our website at: [Website URL - Coming Soon]
 - **Builder & Web Developer**: Diogo
 - **Builder**: Heinzsight
 - **Builder**: Urqnox
-
-## Technology Stack
-- HTML5
-- CSS3
-- JavaScript
-- Minecraft Server (Minestom)
-- Vercel (Website Hosting)
-- [Add any other technologies used]
 
 ## Contributing
 This is a private project. All rights reserved.
@@ -64,4 +38,4 @@ This is a private project. All rights reserved.
 This project is proprietary software. All rights reserved. See the [LICENSE](LICENSE) file for details.
 
 ---
-© 2025 Galaxy Wars 2. Not affiliated with Hypixel or Mojang AB.
+© 2025 Galaxy Wars: The Remake. Not affiliated with Hypixel or Mojang AB.
