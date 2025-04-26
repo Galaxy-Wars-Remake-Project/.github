@@ -10,7 +10,7 @@ Galaxy Wars: The Remake is a Minecraft server project dedicated to reviving and 
 Currently, the Galaxy Wars: The Remake server is in development and will soon be available for closed aplha testing. Check the [discord](https://discord.gg/FzQNJKZMf3) to secure a spot in the testing team and receive the most up to date news.
 
 ### Website
-Visit our website at: [https://gw2-website-v2.vercel.app/]
+Visit our website at: https://gw2-website-v2.vercel.app/
 
 ## Game Modes
 [Add descriptions of your specific game modes here]
