@@ -12,9 +12,6 @@ Currently, the Galaxy Wars: The Remake server is in development and will soon be
 ### Website
 Visit our website at: https://gw2-website-v2.vercel.app/
 
-## Game Modes
-[Add descriptions of your specific game modes here]
-
 ## Development Team
 - **Lead Developer**: crazedorangutan
 - **Lead Builder**: StellarWombat
